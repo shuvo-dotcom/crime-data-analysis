@@ -60,8 +60,7 @@ Generated meaningful inputs by:
 ### **Model Training and Evaluation**  
 Implemented the following models:  
 1. **Logistic Regression**: Used for crime type classification.  
-2. **Random Forest Classifier**: Applied for classification and prediction tasks.  
-3. **Decision Tree Classifier**: Used for location prediction.  
+2. **Random Forest Classifier**: Applied for classification and prediction tasks.
 
 #### **Metrics Used**:  
 - Accuracy  
