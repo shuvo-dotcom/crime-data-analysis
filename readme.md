@@ -84,8 +84,8 @@ Implemented the following models:
 To execute this notebook:  
 1. Clone the repository:  
    ```bash  
-   git clone <repository-link>  
-   cd <repository-name>  
+   git clone https://github.com/shuvo-dotcom/crime-data-analysis 
+   cd crime-data-analysis
    ```  
 2. Install required libraries:  
    ```bash  
